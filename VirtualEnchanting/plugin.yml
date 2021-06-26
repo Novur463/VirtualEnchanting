@@ -1,0 +1,8 @@
+name: VirtualEnchanting
+author: Novur
+main: com.novur.virtualenchanting.VirtualEnchanting
+version: 0.1-FINAL
+api-version: 1.15
+
+depend:
+  - MySQL-Tokens

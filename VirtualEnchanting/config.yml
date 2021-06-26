@@ -1,0 +1,49 @@
+tier1:
+  item:
+    material: IRON_INGOT
+    amount: 1
+    name: '&8&l( &8- &8&l)    &aEnchantment Level 1-8'
+    lore:
+      - '&8&l>>    &aClick here to open an Enchantment Table'
+      - '&8&l>>    &athat offers the ability to enchant between'
+      - '&8&l>>    &alevels &61 &aand &622&a!'
+  location:
+    world: 'world'
+    x: 123.5
+    y: 71
+    z: -203.5
+
+tier2:
+  item:
+    material: GOLD_INGOT
+    amount: 1
+    name: '&8&l( &8- &8&l)    &aEnchantment Level 1-22'
+    lore:
+      - '&8&l>>    &aClick here to open an Enchantment Table'
+      - '&8&l>>    &athat offers the ability to enchant between'
+      - '&8&l>>    &alevels &61 &aand &622&a!'
+  location:
+    world: 'world'
+    x: 124.5
+    y: 71
+    z: -219.5
+
+tier3:
+  item:
+    material: DIAMOND
+    amount: 1
+    name: '&8&l( &8- &8&l)    &aEnchantment Level 1-30'
+    lore:
+      - '&8&l>>    &aClick here to open an Enchantment Table'
+      - '&8&l>>    &athat offers the ability to enchant between'
+      - '&8&l>>    &alevels &61 &aand &622&a!'
+  location:
+    world: 'world'
+    x: 115.5
+    y: 71
+    z: -212.5
+
+cannotRemoveLapis: '&c&lERROR &7&l>> &cYou cannot remove lapis from this enchantment table!'
+tableDoesNotExist: '&c&lERROR &7&l>> &cEnchantment Table hook does not exist!'
+couldNotAfford: '&c&lERROR &7&l>> &cYou require &6{pointAmount} Barter Points &cto be able to enchant this item at this level!'
+pointsTaken: '&3Virtual Enchanting &7&l>> &7You have been charged &6{pointsTaken} Barter Points &7for enchanting this item at this level!'
